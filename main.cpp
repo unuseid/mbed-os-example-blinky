@@ -7,6 +7,7 @@ int main() {
     while (true) {
         led1 = !led1;
         wait(0.5);
+        printf("dddd\n");
     }
 }
 
